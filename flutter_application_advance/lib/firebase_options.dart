@@ -50,20 +50,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAzkUIr4ayzyCZtSNbIgu4kl3hyd-l7ou0',
-    appId: '1:574792181158:web:0aed1ddc9fb7be40041b67',
-    messagingSenderId: '574792181158',
-    projectId: 'coba-firebase-d5b17',
-    authDomain: 'coba-firebase-d5b17.firebaseapp.com',
-    storageBucket: 'coba-firebase-d5b17.appspot.com',
-    measurementId: 'G-TM9ZY23J5V',
+    apiKey: 'AIzaSyC_ytJbHI-iMtIM0fYgG1NvtDSR__13HLU',
+    appId: '1:4548687563:web:71f1f986228d43e0674d4e',
+    messagingSenderId: '4548687563',
+    projectId: 'advance-coursenet',
+    authDomain: 'advance-coursenet.firebaseapp.com',
+    storageBucket: 'advance-coursenet.appspot.com',
+    measurementId: 'G-S6ZS2P6PKF',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCYTxl0b8EFp5jP_1rkohI5uvk-Jk4quoE',
-    appId: '1:574792181158:android:370d728229d1f76c041b67',
-    messagingSenderId: '574792181158',
-    projectId: 'coba-firebase-d5b17',
-    storageBucket: 'coba-firebase-d5b17.appspot.com',
+    apiKey: 'AIzaSyCzYFq_1uWrmY4En6HqsxX_L_bLsH4hs_Y',
+    appId: '1:4548687563:android:f39c96b76e56e35a674d4e',
+    messagingSenderId: '4548687563',
+    projectId: 'advance-coursenet',
+    storageBucket: 'advance-coursenet.appspot.com',
   );
+
 }
